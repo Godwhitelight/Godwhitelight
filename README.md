@@ -5,7 +5,7 @@
  - 🐍 | Python
  - 📄 | JavaScript
  - 😒 | C
- - 🍵| C#
+ - 🍵 | C#
 
 #### More info
 - 🔭 I’m currently working on Shush Client (Private hack client), Anchor (PvP client).
