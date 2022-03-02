@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm dor
 
 #### Languages:
- - Java
- - Python
- - JavaScript
- - C
- - C#
+ - ☕ | Java
+ - 🐍 | Python
+ - 📄 | JavaScript
+ - 😒 | C
+ - 🍵| C#
 
 #### More info
 - 🔭 I’m currently working on Shush Client (Private hack client), Anchor (PvP client).
