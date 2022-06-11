@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm dor
 
 #### Skills:
- ### Languages
+ * Languages
   - ☕ | Java
   - 🐍 | Python
   - 📄 | JavaScript
   - 🍵 | C#
- ### Abilities
+ * Abilities
   - 🔷 | ReactJs
   - 🟩 | NodeJs
   - 📍 | Git
