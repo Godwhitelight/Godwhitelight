@@ -1,10 +1,15 @@
 ### Hi there 👋, I'm dor
 
-#### Languages:
- - ☕ | Java
- - 🐍 | Python
- - 📄 | JavaScript
- - 🍵 | C#
+#### Skills:
+ ### Languages
+  - ☕ | Java
+  - 🐍 | Python
+  - 📄 | JavaScript
+  - 🍵 | C#
+ ### Abilities
+  - 🔷 | ReactJs
+  - 🟩 | NodeJs
+  - 📍 | Git
 
 #### More info
 - 🔭 I’m currently working on None.
@@ -15,7 +20,3 @@
 
 #### Last projects:
  - [⚓] Anchor client | Minecraft pvp client. | DEV
-
-#### Profile views
-Fake
-![Profile views](https://gpvc.arturio.dev/Godwhitelight)
