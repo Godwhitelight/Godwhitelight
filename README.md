@@ -2,14 +2,14 @@
 
 #### Skills:
  * Languages
-  - ☕ | Java
-  - 🐍 | Python
-  - 📄 | JavaScript
-  - 🍵 | C#
+    - ☕ | Java
+    - 🐍 | Python
+    - 📄 | JavaScript
+    - 🍵 | C#
  * Abilities
-  - 🔷 | ReactJs
-  - 🟩 | NodeJs
-  - 📍 | Git
+    - 🔷 | ReactJs
+    - 🟩 | NodeJs
+    - 📍 | Git
 
 #### More info
 - 🔭 I’m currently working on None.
