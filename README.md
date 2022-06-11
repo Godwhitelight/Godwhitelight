@@ -17,4 +17,5 @@
  - [⚓] Anchor client | Minecraft pvp client. | DEV
 
 #### Profile views
-![Profile views](https://gpvc.arturio.dev/Godwhitelight)  
+Fake
+![Profile views](https://gpvc.arturio.dev/Godwhitelight)
