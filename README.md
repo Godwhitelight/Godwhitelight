@@ -7,6 +7,7 @@
     - 📄 | JavaScript
     - 🍵 | C#
  * Abilities
+    - 🔶 | HTML5 & CSS3
     - 🔷 | ReactJs
     - 🟩 | NodeJs
     - 📍 | Git
@@ -20,3 +21,4 @@
 
 #### Last projects:
  - [⚓] Anchor client | Minecraft pvp client. | DEV
+ - [🌍] Givat Shmuel HighSchool Website | My High School Website | Front-End Dev 
