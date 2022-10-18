@@ -5,10 +5,14 @@
     - ☕ | Java
     - 🐍 | Python
     - 📄 | JavaScript
+    - 💠 | TypeScript
     - 🍵 | C#
+    - ➕ | C++
  * Abilities
+    - 🚿 | SpigotAPI 
+    - 🧻 | PaperAPI
     - 🔶 | HTML5 & CSS3
-    - 🔷 | ReactJs
+    - 🔷 | ReactJs | ReactNative
     - 🟩 | NodeJs
     - 📍 | Git
 
