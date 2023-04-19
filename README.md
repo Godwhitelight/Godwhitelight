@@ -18,9 +18,9 @@
 
 #### More info
 - 🔭 I’m currently working on None.
-- 🌱 I’m currently learning mastering js and react.
-- 👯 I’m looking to collaborate on Minecraft servers and pvp/hack clients.
-- 📫 How to reach me: Discord(`**💎𝒢𝑜𝒹𝒲𝒽𝒾𝓉𝑒 𝓁𝒾𝑔𝒽𝓉💎**#0487`).
+- 🌱 I’m currently learning in school.
+- 👯 I’m looking to collaborate on Minecraft servers and cool things in written in python.
+- 📫 How to reach me: Discord(`**💎𝒢𝑜𝒹𝒲𝒽𝒾𝓉𝑒 𝓁𝒾𝑔𝒽𝓉💎**#0689`).
 - ⚡ Fun fact: I have a severe food allergies to milk and nuts.
 
 #### Last projects:
