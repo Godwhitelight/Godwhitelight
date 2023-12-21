@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on None.
 - 🌱 I’m currently learning in school.
 - 👯 I’m looking to collaborate on Minecraft servers and cool things in written in python.
-- 📫 How to reach me: Discord(`itsgodwhitelight`).
+- 📫 How to reach me: Discord(`godwhitelight`).
 - ⚡ Fun fact: I have a severe food allergies to milk and nuts.
 
 #### Last projects:
