@@ -18,11 +18,11 @@
 
 #### More info
 - 🔭 I’m currently working on None.
-- 🌱 I’m currently learning in school.
+- 🌱 I’m currently learning rust.
 - 👯 I’m looking to collaborate on Minecraft servers and cool things in written in python.
 - 📫 How to reach me: Discord(`.godwhitelight`).
 - ⚡ Fun fact: I have a severe food allergies to milk and nuts.
 
 #### Last projects:
  - [⚓] Anchor client | Minecraft pvp client. | DEV
- - [🌍] Givat Shmuel HighSchool Website | My High School Website | Front-End Dev 
+ - [🌍] IsraelMC | An Israeli Minecraft Server. | DEV 
