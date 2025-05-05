@@ -21,7 +21,7 @@
 #### More info
 - 🔭 I’m currently working on None.
 - 🌱 I’m currently learning rust.
-- 👯 I’m looking to collaborate on Minecraft servers and cool things in written in python.
+- 👯 I’m looking to collaborate on cool fun projects.
 - 📫 How to reach me: Discord(`.godwhitelight`).
 - ⚡ Fun fact: I have a severe food allergies to milk and nuts.
 
