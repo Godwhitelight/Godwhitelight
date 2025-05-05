@@ -8,11 +8,13 @@
     - 💠 | TypeScript
     - 🍵 | C#
     - ➕ | C++
+    - 🦀 | Rust
  * Abilities
     - 🚿 | SpigotAPI 
     - 🧻 | PaperAPI
     - 🔶 | HTML5 & CSS3
     - 🔷 | ReactJs | ReactNative
+    - ⬛ | NextJs
     - 🟩 | NodeJs
     - 📍 | Git
 
